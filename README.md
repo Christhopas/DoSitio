@@ -21,7 +21,7 @@ ponto, juntos, implementamos as rotas: `GET /products` e `/products/:id`, `POST 
 > - `GET /categories`: Deve retornar a lista de categorias de produtos existentes na
 aplicação 
 > - `POST /categories`: Deve criar uma nova categoria no banco de dados. Garanta a
-validação dos campos (apenas `name` e `img_url`). Deve retornar status 201 sem
+validação dos campos (apenas name` e img_url). Deve retornar status 201 sem
 conteúdo.
 > - `PUT /categories/:id`: Deve atualizar os dados de uma categoria específica
 > - `DELETE /categories/:id`: Deve remover a categoria.
